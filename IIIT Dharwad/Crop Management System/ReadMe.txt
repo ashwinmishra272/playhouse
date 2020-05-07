@@ -1,5 +1,6 @@
 Data Structures Project 2:
 # PROBLEM STATEMENT: Crop Management System.
+# BY Gourab Chakraborty, Sanchit Goyal, Sourav Bhagat, Ashwin Mishra 
 
 The libraries used are:
 1)Matplotlib (For displaying the graphs)
